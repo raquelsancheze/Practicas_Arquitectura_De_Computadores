@@ -1,6 +1,6 @@
 # Practicas_Arquitectura_De_Computadores
 
-#Práctica 1 - Ejercicio 1
+Práctica 1 - Ejercicio 1
 
 Implementar un programa usando MPI, que imprima por salida estándar:
   “Hola mundo, soy el proceso X de un total de Y.”
